@@ -96,5 +96,5 @@ These models can be used owing to their high accuracy because of their very deep
     
 ## Other Contributor
 
-Special Thanks to [Shivendra Pratap Singh](https://github.com/shivendrapratap2) for all his efforts and support.
+Special Thanks to [Shivendra Pratap Singh](https://github.com/shivendrapratap2) for all his efforts and contributions.
 
