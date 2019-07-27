@@ -1,4 +1,4 @@
-# Causal_Relation_Extraction
+# Causal Relation Extraction From Medical Texts
 
 ![Language](https://img.shields.io/badge/Language-Python3-blue.svg) [![GitHub license](https://img.shields.io/github/license/prateekguptaiiitk/Causal_Relation_Extraction.svg)](https://github.com/prateekguptaiiitk/Causal_Relation_Extraction/blob/master/LICENSE) [![HitCount](http://hits.dwyl.io/{prateekguptaiiitk}/{Causal_Relation_Extraction}.svg)](http://hits.dwyl.io/{prateekguptaiiitk}/{Causal_Relation_Extraction})
 
